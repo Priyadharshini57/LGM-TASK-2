@@ -4,3 +4,4 @@ PREDICTION USING DECISION TREE ALGORITHM
 2. visulaize the data
 3. create decision tree
 4. find the accuracy
+
